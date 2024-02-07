@@ -6,11 +6,11 @@
 ##
 <div>
 <a href="https://beacons.ai/alannamartinsg">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=alannamartinsg" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=alannamartinsg&theme=dracula" />
 </a>
 
 <a href="https://beacons.ai/alannamartinsg">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alannamartinsg&layout=compact&langs_count=8&card_width=220" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alannamartinsg&layout=compact&langs_count=8&card_width=220&theme=dracula" />
 </a>
 </div>
 
