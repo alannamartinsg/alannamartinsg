@@ -2,7 +2,7 @@
 
 - 🌱 Estudando: HTML, CSS e Java Script
 - 😄 Pronomes: Ela/Dela
-- 🦋 Web Staff de cidade online
+- 🦋 Transwoman
 ##
 <div>
 <a href="https://beacons.ai/alannamartinsg">
